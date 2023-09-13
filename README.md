@@ -11,7 +11,7 @@ This is a repository to store data for program testing or analysis that will be 
 If you are using a Jupyter notebook, you can access the data whether you are on a local or cloud environment:
 
 ```
-!git clone repo_link
+!git clone https://github.com/keanteng/kaggledata
 ```
 
 ## Dataset
